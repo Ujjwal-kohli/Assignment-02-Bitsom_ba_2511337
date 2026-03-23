@@ -1,0 +1,43 @@
+[
+  {
+    "product_id": "E701",
+    "name": "Apple Headphones",
+    "category": "Electronics",
+    "price": 25000,
+    "brand": "Apple",
+    "specifications": {
+      "warranty_years": 1,
+      "wireless": true,
+      "battery_life": "20 hours"
+    },
+    "features": ["Noise Cancellation", "Bluetooth Connectivity"]
+  },
+  {
+    "product_id": "C701",
+    "name": "Denim Jacket",
+    "category": "Clothing",
+    "price": 3200,
+    "brand": "Levi's",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "fabric_details": {
+      "material": "Denim",
+      "wash_type": "Stone Wash"
+    }
+  },
+  {
+    "product_id": "G701",
+    "name": "Coriander Powder",
+    "category": "Groceries",
+    "price": 80,
+    "brand": "Everest",
+    "expiry_date": "2024-12-15",
+    "nutritional_info": {
+      "calories": "298 kcal",
+      "fiber": "41g"
+    },
+    "packaging": {
+      "type": "Pouch",
+      "weight": "200g"
+    }
+  }
+]
